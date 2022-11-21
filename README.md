@@ -24,7 +24,7 @@ Yes. Explanation: In this case, we are only testing an individual part of code i
 ## Screenshots
 
 <img src="screenshots/screenshot1.png" width=400px>
-<img src="screenshots/screenshot2.png" width=600px>
-<img src="screenshots/screenshot3.png" width=600px>
-<img src="screenshots/screenshot4.png" width=420px>
-<img src="screenshots/screenshot5.png" width=800px>
+<img src="screenshots/screenshot2.png" width=550px>
+<img src="screenshots/screenshot3.png" width=550px>
+<img src="screenshots/screenshot4.png" width=450px>
+<img src="screenshots/screenshot5.png" width=650px>
